@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome books</title>
-</head>
-<body>
-    
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>AWESOME BOOK STORE</title>
+  </head>
 
-    <script src="./scripts/main.js"></script>
-</body>
+  <body>
+    <div class="container">
+      <h1>AWESOME BOOKS</h1>
+
+    <ul class="book-list">
+    </ul>
+    
+    <form id="book-form" class="form" >
+      <input type="text" class="title-input" placeholder="Title" minlength="2" required>
+      <input type="text" class="author-input" placeholder="Author" minlength="2" required>
+      <button type="submit" class="add-button">Add</button>
+    </form>
+    </div>
+    <script src="index.js"></script>
+  </body>
 </html>
