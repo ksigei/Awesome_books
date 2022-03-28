@@ -31,7 +31,7 @@ Javascrpit
 
 Javascrpit
 
-## Live Demo (if available)
+## Live Demo link
 
 [Live Demo Link](https://ksigei.github.io/Awesome_books/)
 
@@ -81,33 +81,8 @@ You can also check against Webhint:
 npx hint --telemetry=off .
 ```
 
-## 👤 Author
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/BasitKorede)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-korede/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author3**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/ksigei)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
